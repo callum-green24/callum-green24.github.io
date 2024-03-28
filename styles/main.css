@@ -1,0 +1,51 @@
+.h2 {
+  color: aqua;
+  font-style: italic;
+  text-align: center;
+  background-color: black;
+  padding: 1em;
+  width: 100%;
+  position: sticky;
+}
+.h2text {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+}
+.h1 {
+  text-align: center;
+  overflow: hidden;
+  font-family: arial;
+  background-color: aqua;
+  padding: 1em;
+  margin: 0px;
+  width: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+}
+.bloglist {
+  text-align: center;
+  display: inline-block !important;
+  padding: 0.1em;
+  margin: auto;
+  width: 100%;
+}
+.lowerblock {
+  background-color: rgba(209, 179, 179, 0.797);
+  margin: 0%;
+  padding: 1em;
+  width: 100%;
+}
+html {
+  margin: 0;
+}
+ul {
+  display: inline-block;
+}
