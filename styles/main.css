@@ -52,3 +52,12 @@ ul {
   width: 60%;
   height: auto;
 }
+.snakecont {
+  display: flex;
+  justify-content: center;
+}
+@media (max-width: 320px) {
+  .snake {
+    width: 50%;
+  }
+}
