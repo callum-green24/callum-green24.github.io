@@ -32,18 +32,19 @@ body {
   width: 100%;
 }
 .bloglist {
-  text-align: center;
+  text-align: center
   display: inline-block !important;
   padding: 0.1em;
   margin: auto;
   width: 100%;
+  list-style-position: disc;
 }
 .lowerblock {
   background-color: rgba(209, 179, 179, 0.797);
   margin: 0%;
   padding: 1em;
   width: 100%;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: sans-serif;
 }
 html {
   margin: 0;
@@ -64,3 +65,4 @@ ul {
     width: 50%;
   }
 }
+
