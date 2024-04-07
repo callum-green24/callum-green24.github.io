@@ -1,6 +1,12 @@
 body {
   background-color: #f5f5f5;
   font-family: Arial;
+  border-width: 10px;
+  border-color: black;
+  border-style: solid;
+  text-align: center;
+  padding-left: 200px;
+  padding-right: 200px;
 }
 .owl {
   text-align: center;
@@ -19,4 +25,11 @@ img {
 .inline {
   font-size: 20px;
   padding-left: 20px;
+}
+/* emotional intelligence */
+h6 {
+  font-size: large;
+}
+.homepage {
+  margin-bottom: 20px;
 }
